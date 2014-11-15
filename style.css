@@ -56,7 +56,7 @@ div.section {
 
 /* If we want the divs with ids plan and more to look the same, we can put them together */
 #plan, #more {
-	background:#000080;
+	background:#000039;
 	color: white;
 	font: 'Source Sans Pro',Arial, Sans-Serif;
 	background-image: none;  /* replace none with url('image-url') to set a background image  */
